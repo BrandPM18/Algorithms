@@ -2,6 +2,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Practice-Algorithms-yellow" alt="Algoritmos">
   <br><br>
+</div>
+  
   
 ## Periodo: 2020
 - Practicas
