@@ -6,15 +6,17 @@
   
   
 ## Periodo: 2020
+
 - Practicas
-
-  1. [Propiedad & Recurrencia](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_2_Preguntas.pdf)
-  2. [Divide y Venceras]()
-  3. [Backtracking & Branch and Bound](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_4_Preguntas.pdf)
-
+  1. [Algorithmic Complexity](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_1_Preguntas.pdf)
+  2. [Property & Recurrence](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_2_Preguntas.pdf)
+  3. [Divide & Conquer](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_3_Preguntas.pdf)
+  4. [Backtracking & Branch and Bound](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_4_Preguntas.pdf)
+  5. [Heuristic & Meta-heuristic]
+  
 - Soluciones
-
-  1. [Propiedad & Recurrencia: Solucion](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_2.pdf)
-  2. [Divide y Venceras: Solucion](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_3.pdf)
-  3. [Backtracking & Branch and Bound](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_4.pdf)
-  4. [Heuristicas y MetaHeuristicas](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_5.pdf)
+  1. [Algorithmic Complexity](https://slides.com/brandomiguelpalaciosmogollon/brand_alg_1/fullscreen)
+  2. [Property & Recurrence](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_2.pdf)
+  3. [Divide & Conquer](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_3.pdf)
+  4. [Backtracking & Branch and Bound](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_4.pdf)
+  5. [Heuristics and MetaHeuristics](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_5.pdf)
