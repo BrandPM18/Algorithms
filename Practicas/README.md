@@ -13,7 +13,7 @@
   3. [Divide & Conquer](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_3_Preguntas.pdf)
   4. [Backtracking & Branch and Bound](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_4_Preguntas.pdf)
   5. [Heuristic & Meta-heuristic]
-  
+  6. [Minimum spanning tree & Shortest path](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_6_Preguntas.pdf)
 - Soluciones
   1. [Algorithmic Complexity](https://slides.com/brandomiguelpalaciosmogollon/brand_alg_1/fullscreen)
   2. [Property & Recurrence](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_2.pdf)
