@@ -10,9 +10,11 @@
 
   1. [Propiedad & Recurrencia](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_2_Preguntas.pdf)
   2. [Divide y Venceras]()
+  3. [Backtracking & Branch and Bound](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_4_Preguntas.pdf)
 
 - Soluciones
 
   1. [Propiedad & Recurrencia: Solucion](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_2.pdf)
   2. [Divide y Venceras: Solucion](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_3.pdf)
-  3. [Heuristicas y MetaHeuristicas](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_5.pdf)
+  3. [Backtracking & Branch and Bound](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_4.pdf)
+  4. [Heuristicas y MetaHeuristicas](https://github.com/BrandPM18/Algorithms/blob/master/Practicas/Practica_5.pdf)
